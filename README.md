@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pablo-j-amico/](https://www.linkedin.com/in/pablo-j-amico/)
 
-- ⚡ Fun fact **i'm a highly sociable person, really funny, and i have have prevoiuos company administration and graphic design studies and work experiencie, also i'm a biligual spanish and english speaker**
+- ⚡ Fun fact **i'm a highly sociable person, really funny, and i have prevoiuos company administration and graphic design studies and work experiencie, also i'm a biligual spanish and english speaker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
