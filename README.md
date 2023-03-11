@@ -34,3 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablosecuen&show_icons=true&locale=en" alt="pablosecuen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pablosecuen&" alt="pablosecuen" /></p>
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pablosecuen&repo=Pokemon)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=pablosecuen&repo=E-commerce)
