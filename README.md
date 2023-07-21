@@ -4,15 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablosecuen&label=Profile%20views&color=0e75b6&style=flat" alt="pablosecuen" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablosecuen" alt="pablosecuen" /></a> </p>
 
-- 🔭 I’m currently working on [Pet Friendly Universe](https://petfriendlyuniverse.vercel.app/)
+- 🔭 I’m currently working on [Aythen]((https://aythen.com/))
+- 🔭 Also currently working on [Wam! creativo]((https://aythen.com/](https://wamcreativo.com/))
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Robotic process automation**
 
 - 👨‍💻 All of my projects are available at https://pablo-amico.vercel.app/
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pablo-j-amico/](https://www.linkedin.com/in/pablo-j-amico/)
 
-- 💬 Ask me about **react, typescript, ux/ui**
+- 💬 Ask me about **react, typescript, ux/ui, ract native**
 
 - 📫 How to reach me **pablosecuen@gmail.com**
 
