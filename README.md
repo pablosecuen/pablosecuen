@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pablosecuen" alt="pablosecuen" /></a> </p>
 
 - 🔭 I’m currently working on [Aythen]((https://aythen.com/))
-- 🔭 Also currently working on [Wam! creativo]((https://aythen.com/](https://wamcreativo.com/))
+- 🔭 Also currently working on [Wam! creativo]((https://wamcreativo.com/))
 
 - 🌱 I’m currently learning **Robotic process automation**
 
