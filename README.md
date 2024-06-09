@@ -8,7 +8,6 @@
 
 - 🌱 Currently learning **Robotic process automation**
 
-- 👨‍💻 All of my projects are available at https://pablo-amico.vercel.app/
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/pablo-j-amico/](https://www.linkedin.com/in/pablo-j-amico/)
 
